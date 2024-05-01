@@ -39,9 +39,5 @@ This project is a simple class list management system implemented using PHP for 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 ### License:
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ---
 
-Feel free to customize the description and installation guide based on your preferences and the specific details of your project. Once you've updated the repository with this information, users can easily understand how to install and use your class list management system from GitHub.
