@@ -23,12 +23,13 @@ This project is a simple class list management system implemented using PHP for 
 
 3. **Configure Backend:**
    - Navigate to the `backend/` directory.
+   - make sure the front end javascript has the right backend directory  for the frontend
    - Open the `api.php` file and update the database connection details (server, username, password, and database name) as per your MySQL configuration.
 
 4. **Run the Application:**
    - Ensure that you have a local web server environment set up (e.g., Apache, Nginx, or WAMP).
    - Place the project files in the web server's document root directory.
-   - Access the application through a web browser by navigating to `http://localhost/class-list-management/frontend/index.html`.
+   - Access the application through a web browser by navigating to `http:/localhost/classlist/index.html`.
 
 ### Usage:
 
